@@ -1,5 +1,5 @@
 'use strict'
 
-function onlick() {
+function onClick() {
     console.log('Clicked the button')
 }
